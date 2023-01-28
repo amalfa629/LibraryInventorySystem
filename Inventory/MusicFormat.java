@@ -1,0 +1,4 @@
+enum MusicFormat {
+	CD,
+	VINYL
+}
